@@ -1,0 +1,3 @@
+[submodule "boom"]
+	path = boom
+	url = https://github.com/Gummum/esp32-dog-boom
