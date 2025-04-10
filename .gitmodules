@@ -1,3 +1,6 @@
 [submodule "boom"]
 	path = boom
 	url = https://github.com/Gummum/esp32-dog-boom
+[submodule "upper_computer"]
+	path = upper_computer
+	url = https://github.com/Gummum/upper-computer.git
